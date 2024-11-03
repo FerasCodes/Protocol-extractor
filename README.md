@@ -20,7 +20,7 @@ Protocol Extractor is a Python tool that analyzes PCAP files to extract and list
    git clone https://github.com/ferascodes/Protocol-extractor.git
    cd Protocol-extractor
 
-  ```
+   ```
 
 2. Ensure tshark is installed and accessible. Download [Wireshark](https://www.wireshark.org/) from Wireshark's Official Site.
 
